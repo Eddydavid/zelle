@@ -3,4 +3,6 @@ read username
 echo " please enter your valid pin"
 read -s pin
 echo "valid pin accepted, $username welcome to zelle platform"
+echo " thank you, $username for choosing zelle  
+
 
